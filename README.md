@@ -1,11 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Github Actions : reprenez votre CI en main
 
-To start the slide show:
+Faisons le tour ensemble de Github Action ainsi que quelques tips créer vos CI pour le développement web.
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
+Vous pouvez retrouver les slides ici : https://damienfern.github.io/talk_github_actions
 
-Edit the [slides.md](./slides.md) to see the changes.
+## Historique
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+- Meetup AFUP Lyon du 12 décembre 2024
